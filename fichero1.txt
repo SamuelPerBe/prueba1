@@ -1,1 +1,1 @@
-Este es el contenido del fichero1
+Este es el contenido 1.0 del fichero1
